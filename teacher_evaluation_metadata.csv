@@ -1,0 +1,21 @@
+﻿指标代码,指标描述,是否负向指标
+A1,industry alignment ability（0-100分）,False
+A2,dual-qualified teacher certification（0-100分）,False
+A3,curriculum system development ability（0-100分）,False
+A4,team collaboration skills（0-100分）,False
+B1,instructional resource refresh rate（0-100分）,False
+B2,theory-practice integration level（0-100分）,False
+B3,ed-tech tool proficiency（0-100分）,False
+B4,ideological-political education integration（0-100分）,False
+C1,classroom discipline efficacy（0-100分）,False
+C2,differentiated instruction ability（0-100分）,False
+C3,student's complaints frequency,True
+C4,teaching incident frequency,True
+C5,professional competency cultivation outcomes,False
+D1,pedagogical innovation adoption rate,False
+D2,teaching excellence award achievements（0-100分）,False
+D3,digital transformation proficiency（0-100分）,False
+D4,industry-education project engagement（0-100分）,False
+E1,student evaluation of teaching score（0-100分）,False
+E2,reflective practice report quality0-100分）,False
+E3,peer review responsiveness rate（0-100分）,False
